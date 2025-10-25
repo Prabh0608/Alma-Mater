@@ -1,0 +1,1182 @@
+[
+    {
+        "name": "Akash Verma",
+        "enrolmentNumber": "GL1045",
+        "gender": "Male",
+        "highestQualification": "MBA",
+        "lastHallAttended": "Sir Syed Hall (South) Hall",
+        "faculty": "Management",
+        "yearOfJoining": 2018,
+        "yearOfLeaving": 2020,
+        "city": "Aligarh",
+        "currentCountry": "India",
+        "currentDesignation": "Management Consultant Trainee",
+        "currentCompany": "Aligarh Business Solutions",
+        "permanentAddress": "Shiv Vihar Colony, Aligarh",
+        "mobileNumber": "8755089668",
+        "emailAddress": "akashu167@outlook.com",
+        "imageUrl": "https://picsum.photos/seed/male-101/2000/2000",
+        "posts": 3,
+        "projects": 6,
+        "members": 10,
+        "skills": [
+            "Python (scripting & automation)",
+            "Data Structures & Algorithms",
+            "SQL & Database Design",
+            "Git & Version Control (GitHub)"
+        ],
+        "aboutMe": "Enthusiastic management professional with a strong foundation in strategy and team leadership. I enjoy solving business problems using data-driven approaches and mentoring junior teammates. Keen on consulting projects that combine analytics and operational improvements.",
+        "personalDetails": {
+            "fullName": "Akash Verma",
+            "fatherName": "Ramesh Verma",
+            "phone": "8755089668",
+            "country": "India",
+            "email": "akashu167@outlook.com",
+            "zipCode": "202001",
+            "address": "Shiv Vihar Colony, Aligarh"
+        },
+        "education": [
+            "MBA - Aligarh Muslim University (2020)",
+            "BBA - Aligarh Muslim University (2018)"
+        ],
+        "pastEmployment": {
+            "position": "Management Trainee Intern",
+            "company": "ICICI Bank",
+            "responsibilities": [
+                "Supported daily branch operations",
+                "Prepared basic financial reports and statements",
+                "Assisted relationship managers with client documentation"
+            ]
+        },
+        "currentEmployment": {
+            "position": "Management Consultant Trainee",
+            "company": "Aligarh Business Solutions",
+            "responsibilities": [
+                "Conduct market and competitor research",
+                "Prepare slides and analysis for client presentations",
+                "Support senior consultants on process re-design"
+            ]
+        }
+    },
+    {
+        "name": "Ridhwan Mehra",
+        "enrolmentNumber": "GG2079",
+        "gender": "Male",
+        "highestQualification": "MBA (Finance)",
+        "lastHallAttended": "Sir Syed Hall (South)",
+        "faculty": "Management",
+        "yearOfJoining": 2018,
+        "yearOfLeaving": 2020,
+        "city": "Budaun",
+        "currentCountry": "India",
+        "currentDesignation": "Finance Associate",
+        "currentCompany": "HDFC Bank Ltd.",
+        "permanentAddress": "Budaun, Uttar Pradesh",
+        "mobileNumber": "9458490326",
+        "emailAddress": "shahbazali0508@gmail.com",
+        "imageUrl": "https://picsum.photos/seed/male-102/2000/2000",
+        "posts": 2,
+        "projects": 6,
+        "members": 15,
+        "skills": [
+            "Python for Finance (pandas, numpy)",
+            "Financial Data Modeling (SQL)",
+            "Automation with scripting (Python)",
+            "Excel + Scripting integration"
+        ],
+        "aboutMe": "Detail-oriented finance professional focused on financial analysis and risk management. I enjoy turning numbers into actionable insights and improving budgetary processes.",
+        "personalDetails": {
+            "fullName": "Ridhwan Mehra",
+            "fatherName": "Aamir Mehra",
+            "phone": "9458490326",
+            "country": "India",
+            "email": "shahbazali0508@gmail.com",
+            "zipCode": "203001",
+            "address": "Budaun, Uttar Pradesh"
+        },
+        "education": [
+            "MBA (Finance) - Aligarh Muslim University (2020)",
+            "B.Com - University of Lucknow (2016)"
+        ],
+        "pastEmployment": {
+            "position": "Finance Intern",
+            "company": "ICICI Bank",
+            "responsibilities": [
+                "Assisted with loan documentation and processing",
+                "Prepared monthly reconciliations",
+                "Supported senior analysts with investment research"
+            ]
+        },
+        "currentEmployment": {
+            "position": "Finance Associate",
+            "company": "HDFC Bank Ltd.",
+            "responsibilities": [
+                "Manage client accounts and transaction reviews",
+                "Prepare budget and forecast reports",
+                "Support compliance and internal audit requests"
+            ]
+        }
+    },
+    {
+        "name": "Nida Khan",
+        "enrolmentNumber": "GH5731",
+        "gender": "Female",
+        "highestQualification": "MBA",
+        "lastHallAttended": "Begum Sultan Jahan Hall",
+        "faculty": "Management",
+        "yearOfJoining": 2018,
+        "yearOfLeaving": 2020,
+        "city": "Aligarh",
+        "currentCountry": "India",
+        "currentDesignation": "HR Assistant",
+        "currentCompany": "TCS Pvt. Ltd.",
+        "permanentAddress": "Aligarh, Uttar Pradesh",
+        "mobileNumber": "9123745621",
+        "emailAddress": "rukhsarnaaz20@gmail.com",
+        "imageUrl": "https://picsum.photos/seed/female-201/2000/2000",
+        "posts": 10,
+        "projects": 1,
+        "members": 5,
+        "skills": [
+            "Python for HR analytics (pandas)",
+            "HR Data Visualization (matplotlib)",
+            "SQL for HR databases",
+            "Automation with Excel & scripts"
+        ],
+        "aboutMe": "HR professional committed to building inclusive workplaces. Experienced in campus hiring, onboarding and engagement events. I enjoy working on programs that help employees grow.",
+        "personalDetails": {
+            "fullName": "Nida Khan",
+            "fatherName": "Salim Khan",
+            "phone": "9123745621",
+            "country": "India",
+            "email": "rukhsarnaaz20@gmail.com",
+            "zipCode": "202001",
+            "address": "Aligarh, Uttar Pradesh"
+        },
+        "education": [
+            "MBA - Aligarh Muslim University (2020)",
+            "BBA - Aligarh Muslim University (2018)"
+        ],
+        "pastEmployment": {
+            "position": "HR Intern",
+            "company": "Infosys Ltd.",
+            "responsibilities": [
+                "Supported recruitment campaigns",
+                "Coordinated onboarding schedules",
+                "Assisted with employee engagement activities"
+            ]
+        },
+        "currentEmployment": {
+            "position": "HR Assistant",
+            "company": "TCS Pvt. Ltd.",
+            "responsibilities": [
+                "Coordinate interviews and hiring logistics",
+                "Maintain employee records and HRIS",
+                "Assist in learning & development programs"
+            ]
+        }
+    },
+    {
+        "name": "Arjun Patel",
+        "enrolmentNumber": "GH4310",
+        "gender": "Male",
+        "highestQualification": "MBA (Marketing)",
+        "lastHallAttended": "N.R.S.C.",
+        "faculty": "Management",
+        "yearOfJoining": 2018,
+        "yearOfLeaving": 2020,
+        "city": "Aligarh",
+        "currentCountry": "India",
+        "currentDesignation": "Sales Executive",
+        "currentCompany": "Amazon India",
+        "permanentAddress": "Rampur, Uttar Pradesh",
+        "mobileNumber": "9876543200",
+        "emailAddress": "imtiyazkhan.alig@gmail.com",
+        "imageUrl": "https://picsum.photos/seed/male-103/2000/2000",
+        "posts": 7,
+        "projects": 4,
+        "members": 10,
+        "skills": [
+            "JavaScript (fundamentals)",
+            "APIs & Integration (REST)",
+            "Basic Node.js / backend scripting",
+            "Data analysis with SQL"
+        ],
+        "aboutMe": "Results-driven sales professional with experience in building client relationships and designing go-to-market tactics. I enjoy turning market insights into revenue growth.",
+        "personalDetails": {
+            "fullName": "Arjun Patel",
+            "fatherName": "Kishore Patel",
+            "phone": "9876543200",
+            "country": "India",
+            "email": "imtiyazkhan.alig@gmail.com",
+            "zipCode": "202002",
+            "address": "Rampur, Uttar Pradesh"
+        },
+        "education": [
+            "MBA (Marketing) - Aligarh Muslim University (2020)",
+            "BBA - Aligarh Muslim University (2018)"
+        ],
+        "pastEmployment": {
+            "position": "Sales Intern",
+            "company": "Flipkart Pvt. Ltd.",
+            "responsibilities": [
+                "Assisted account managers with client touchpoints",
+                "Compiled weekly sales reports",
+                "Supported promotional campaigns"
+            ]
+        },
+        "currentEmployment": {
+            "position": "Sales Executive",
+            "company": "Amazon India",
+            "responsibilities": [
+                "Manage assigned seller accounts",
+                "Design and implement sales strategies",
+                "Coordinate with marketing for seller promotions"
+            ]
+        }
+    },
+    {
+        "name": "Karan Sharma",
+        "enrolmentNumber": "GL2058",
+        "gender": "Male",
+        "highestQualification": "MBA",
+        "lastHallAttended": "Sir Syed Hall (North)",
+        "faculty": "Management",
+        "yearOfJoining": 2018,
+        "yearOfLeaving": 2020,
+        "city": "Lucknow",
+        "currentCountry": "India",
+        "currentDesignation": "Management Trainee",
+        "currentCompany": "Infosys Ltd.",
+        "permanentAddress": "Lucknow, Uttar Pradesh",
+        "mobileNumber": "9768124570",
+        "emailAddress": "danish.alu@gmail.com",
+        "imageUrl": "https://picsum.photos/seed/male-104/2000/2000",
+        "posts": 3,
+        "projects": 1,
+        "members": 12,
+        "skills": [
+            "Python (automation & scripting)",
+            "Business intelligence (Power BI basics)",
+            "SQL & data querying",
+            "Basics of cloud (AWS fundamentals)"
+        ],
+        "aboutMe": "Focused on operational excellence and business analytics. I like combining process improvements with data to deliver measurable results for teams and clients.",
+        "personalDetails": {
+            "fullName": "Karan Sharma",
+            "fatherName": "Sanjeev Sharma",
+            "phone": "9768124570",
+            "country": "India",
+            "email": "danish.alu@gmail.com",
+            "zipCode": "226001",
+            "address": "Lucknow, Uttar Pradesh"
+        },
+        "education": [
+            "MBA - Aligarh Muslim University (2020)",
+            "BBA - Lucknow University (2018)"
+        ],
+        "pastEmployment": {
+            "position": "Business Intern",
+            "company": "TCS Pvt. Ltd.",
+            "responsibilities": [
+                "Supported project planning activities",
+                "Analyzed process metrics",
+                "Prepared status reports for managers"
+            ]
+        },
+        "currentEmployment": {
+            "position": "Management Trainee",
+            "company": "Infosys Ltd.",
+            "responsibilities": [
+                "Support delivery teams on client engagements",
+                "Prepare analytics and dashboards",
+                "Coordinate cross-functional teams"
+            ]
+        }
+    },
+    {
+        "name": "Amit Joshi",
+        "enrolmentNumber": "GM1189",
+        "gender": "Male",
+        "highestQualification": "MBA",
+        "lastHallAttended": "N.R.S.C.",
+        "faculty": "Management",
+        "yearOfJoining": 2018,
+        "yearOfLeaving": 2020,
+        "city": "Delhi",
+        "currentCountry": "India",
+        "currentDesignation": "Operations Analyst",
+        "currentCompany": "Deloitte India",
+        "permanentAddress": "Okhla, New Delhi",
+        "mobileNumber": "9312047689",
+        "emailAddress": "sameerahmed20@gmail.com",
+        "imageUrl": "https://picsum.photos/seed/male-105/2000/2000",
+        "posts": 8,
+        "projects": 6,
+        "members": 5,
+        "skills": [
+            "SQL (intermediate)",
+            "Python for data cleaning",
+            "ETL basics",
+            "Reporting & dashboards"
+        ],
+        "aboutMe": "Operations analyst focused on driving efficiencies through process mapping and data. I enjoy digging into operational problems and proposing practical improvements.",
+        "personalDetails": {
+            "fullName": "Amit Joshi",
+            "fatherName": "Rakesh Joshi",
+            "phone": "9312047689",
+            "country": "India",
+            "email": "sameerahmed20@gmail.com",
+            "zipCode": "110025",
+            "address": "Okhla, New Delhi"
+        },
+        "education": [
+            "MBA - Aligarh Muslim University (2020)",
+            "B.Com - Delhi University (2017)"
+        ],
+        "pastEmployment": {
+            "position": "Operations Intern",
+            "company": "Logistics Co. (internship)",
+            "responsibilities": [
+                "Collected and cleaned operations data",
+                "Prepared weekly efficiency reports",
+                "Assisted with vendor coordination"
+            ]
+        },
+        "currentEmployment": {
+            "position": "Operations Analyst",
+            "company": "Deloitte India",
+            "responsibilities": [
+                "Analyze client operational workflows",
+                "Develop process improvement recommendations",
+                "Build performance dashboards"
+            ]
+        }
+    },
+    {
+        "name": "Vivek Gupta",
+        "enrolmentNumber": "GN3033",
+        "gender": "Male",
+        "highestQualification": "MBA (Marketing)",
+        "lastHallAttended": "Sir Syed Hall (North)",
+        "faculty": "Management",
+        "yearOfJoining": 2018,
+        "yearOfLeaving": 2020,
+        "city": "Patna",
+        "currentCountry": "India",
+        "currentDesignation": "Marketing Executive",
+        "currentCompany": "Axis Bank",
+        "permanentAddress": "Patna, Bihar",
+        "mobileNumber": "9805624711",
+        "emailAddress": "shahrukhalam20@gmail.com",
+        "imageUrl": "https://picsum.photos/seed/male-106/2000/2000",
+        "posts": 2,
+        "projects": 2,
+        "members": 12,
+        "skills": [
+            "Front-end basics (HTML, CSS)",
+            "JavaScript (DOM & events)",
+            "Analytics implementation (Google Analytics)",
+            "Basic visualization (Charting libraries)"
+        ],
+        "aboutMe": "Marketing executive with hands-on experience in digital campaigns and customer acquisition. I enjoy crafting messages that resonate with target audiences and measuring campaign effectiveness.",
+        "personalDetails": {
+            "fullName": "Vivek Gupta",
+            "fatherName": "Anil Gupta",
+            "phone": "9805624711",
+            "country": "India",
+            "email": "shahrukhalam20@gmail.com",
+            "zipCode": "800001",
+            "address": "Patna, Bihar"
+        },
+        "education": [
+            "MBA (Marketing) - Aligarh Muslim University (2020)",
+            "BBA - Patna University (2017)"
+        ],
+        "pastEmployment": {
+            "position": "Marketing Intern",
+            "company": "Local Agency",
+            "responsibilities": [
+                "Assisted in social media campaign execution",
+                "Prepared performance reports",
+                "Supported content creation"
+            ]
+        },
+        "currentEmployment": {
+            "position": "Marketing Executive",
+            "company": "Axis Bank",
+            "responsibilities": [
+                "Plan and execute product campaigns",
+                "Coordinate with creative and media teams",
+                "Monitor campaign KPIs and optimize"
+            ]
+        }
+    },
+    {
+        "name": "Meera Nair",
+        "enrolmentNumber": "GI5009",
+        "gender": "Female",
+        "highestQualification": "MBA (Finance)",
+        "lastHallAttended": "Begum Sultan Jahan Hall",
+        "faculty": "Management",
+        "yearOfJoining": 2018,
+        "yearOfLeaving": 2020,
+        "city": "Lucknow",
+        "currentCountry": "India",
+        "currentDesignation": "Finance Intern",
+        "currentCompany": "KPMG India",
+        "permanentAddress": "Lucknow, Uttar Pradesh",
+        "mobileNumber": "8897256781",
+        "emailAddress": "bushra.khan20@gmail.com",
+        "imageUrl": "https://picsum.photos/seed/female-202/2000/2000",
+        "posts": 4,
+        "projects": 5,
+        "members": 11,
+        "skills": [
+            "Python for financial analysis",
+            "Advanced Excel + automation",
+            "SQL for reporting",
+            "Financial reporting automation (scripting)"
+        ],
+        "aboutMe": "Early-career finance professional gaining experience in audit and financial reporting. Passionate about continuous learning and professional certifications in finance.",
+        "personalDetails": {
+            "fullName": "Meera Nair",
+            "fatherName": "Thomas Nair",
+            "phone": "8897256781",
+            "country": "India",
+            "email": "bushra.khan20@gmail.com",
+            "zipCode": "226001",
+            "address": "Lucknow, Uttar Pradesh"
+        },
+        "education": [
+            "MBA (Finance) - Aligarh Muslim University (2020)",
+            "B.Com - Lucknow University (2017)"
+        ],
+        "pastEmployment": {
+            "position": "Accounting Intern",
+            "company": "Local CA Firm",
+            "responsibilities": [
+                "Helped prepare bookkeeping entries",
+                "Assisted with GST reconciliations",
+                "Supported audit documentation"
+            ]
+        },
+        "currentEmployment": {
+            "position": "Finance Intern",
+            "company": "KPMG India",
+            "responsibilities": [
+                "Assist audit teams with client schedules",
+                "Prepare financial statement reconciliations",
+                "Support data collection for audits"
+            ]
+        }
+    },
+    {
+        "name": "Farhan Siddiqui",
+        "enrolmentNumber": "GM4021",
+        "gender": "Male",
+        "highestQualification": "MBA",
+        "lastHallAttended": "Sir Syed Hall (South)",
+        "faculty": "Management",
+        "yearOfJoining": 2018,
+        "yearOfLeaving": 2020,
+        "city": "Moradabad",
+        "currentCountry": "India",
+        "currentDesignation": "Operations Executive",
+        "currentCompany": "Flipkart Pvt. Ltd.",
+        "permanentAddress": "Moradabad, Uttar Pradesh",
+        "mobileNumber": "9910427876",
+        "emailAddress": "amirs20@gmail.com",
+        "imageUrl": "https://picsum.photos/seed/male-107/2000/2000",
+        "posts": 10,
+        "projects": 5,
+        "members": 11,
+        "skills": [
+            "Logistics data analysis (Python)",
+            "Inventory forecasting (basic ML concepts)",
+            "SQL for operations data",
+            "Automation with scripting"
+        ],
+        "aboutMe": "Operations professional experienced in supply chain and logistics. I enjoy improving processes to reduce lead time and enhance cost-efficiency.",
+        "personalDetails": {
+            "fullName": "Farhan Siddiqui",
+            "fatherName": "Ishaq Siddiqui",
+            "phone": "9910427876",
+            "country": "India",
+            "email": "amirs20@gmail.com",
+            "zipCode": "244001",
+            "address": "Moradabad, Uttar Pradesh"
+        },
+        "education": [
+            "MBA - Aligarh Muslim University (2020)",
+            "B.Com - Rohilkhand University (2017)"
+        ],
+        "pastEmployment": {
+            "position": "Operations Intern",
+            "company": "Local Retailer",
+            "responsibilities": [
+                "Assisted with order fulfillment tracking",
+                "Monitored inventory levels",
+                "Coordinated with delivery partners"
+            ]
+        },
+        "currentEmployment": {
+            "position": "Operations Executive",
+            "company": "Flipkart Pvt. Ltd.",
+            "responsibilities": [
+                "Oversee daily warehouse operations",
+                "Coordinate logistics and delivery partners",
+                "Monitor KPIs and implement improvements"
+            ]
+        }
+    },
+    {
+        "name": "Priya Chopra",
+        "enrolmentNumber": "GH3456",
+        "gender": "Female",
+        "highestQualification": "MBA (HR)",
+        "lastHallAttended": "Begum Sultan Jahan Hall",
+        "faculty": "Management",
+        "yearOfJoining": 2018,
+        "yearOfLeaving": 2020,
+        "city": "Delhi",
+        "currentCountry": "India",
+        "currentDesignation": "HR Recruiter",
+        "currentCompany": "Tech Mahindra",
+        "permanentAddress": "New Delhi, India",
+        "mobileNumber": "9988320471",
+        "emailAddress": "shabnamparveen20@gmail.com",
+        "imageUrl": "https://picsum.photos/seed/female-203/2000/2000",
+        "posts": 3,
+        "projects": 5,
+        "members": 15,
+        "skills": [
+            "ATS systems and integrations (basic APIs)",
+            "Data-driven sourcing (SQL basics)",
+            "Candidate data pipelines (automation)",
+            "Reporting & analytics for hiring"
+        ],
+        "aboutMe": "Recruitment specialist focused on sourcing quality talent and improving candidate experience. I enjoy employer-branding initiatives and building pipelines for hard-to-fill roles.",
+        "personalDetails": {
+            "fullName": "Priya Chopra",
+            "fatherName": "Dinesh Chopra",
+            "phone": "9988320471",
+            "country": "India",
+            "email": "shabnamparveen20@gmail.com",
+            "zipCode": "110001",
+            "address": "New Delhi, India"
+        },
+        "education": [
+            "MBA (HR) - Aligarh Muslim University (2020)",
+            "BA - Delhi University (2016)"
+        ],
+        "pastEmployment": {
+            "position": "HR Intern",
+            "company": "Local Tech Startup",
+            "responsibilities": [
+                "Screened resumes and scheduled interviews",
+                "Managed candidate communications",
+                "Assisted with onboarding formalities"
+            ]
+        },
+        "currentEmployment": {
+            "position": "HR Recruiter",
+            "company": "Tech Mahindra",
+            "responsibilities": [
+                "Source and screen candidates for IT roles",
+                "Coordinate interview rounds with hiring managers",
+                "Maintain ATS and recruitment metrics"
+            ]
+        }
+    },
+    {
+        "name": "Irfan Khan",
+        "enrolmentNumber": "GM2679",
+        "gender": "Male",
+        "highestQualification": "MBA (Finance)",
+        "lastHallAttended": "N.R.S.C.",
+        "faculty": "Management",
+        "yearOfJoining": 2018,
+        "yearOfLeaving": 2020,
+        "city": "Aligarh",
+        "currentCountry": "India",
+        "currentDesignation": "Financial Analyst",
+        "currentCompany": "ICICI Securities",
+        "permanentAddress": "Aligarh, Uttar Pradesh",
+        "mobileNumber": "8754031290",
+        "emailAddress": "irfan.m20@gmail.com",
+        "imageUrl": "https://picsum.photos/seed/male-108/2000/2000",
+        "posts": 5,
+        "projects": 2,
+        "members": 10,
+        "skills": [
+            "Financial modeling with Python",
+            "Data analysis (pandas / numpy)",
+            "SQL for research databases",
+            "Automated reporting (APIs & scripts)"
+        ],
+        "aboutMe": "Aspiring financial analyst with interest in equity research and portfolio analysis. I enjoy building models and communicating investment ideas clearly.",
+        "personalDetails": {
+            "fullName": "Irfan Khan",
+            "fatherName": "Nasir Khan",
+            "phone": "8754031290",
+            "country": "India",
+            "email": "irfan.m20@gmail.com",
+            "zipCode": "202001",
+            "address": "Aligarh, Uttar Pradesh"
+        },
+        "education": [
+            "MBA (Finance) - Aligarh Muslim University (2020)",
+            "B.Com - Aligarh Muslim University (2017)"
+        ],
+        "pastEmployment": {
+            "position": "Research Intern",
+            "company": "Local Brokerage",
+            "responsibilities": [
+                "Collected market data",
+                "Prepared sector notes",
+                "Assisted senior analysts with reports"
+            ]
+        },
+        "currentEmployment": {
+            "position": "Financial Analyst",
+            "company": "ICICI Securities",
+            "responsibilities": [
+                "Prepare financial models and valuations",
+                "Support client pitches with research",
+                "Monitor company performance and market news"
+            ]
+        }
+    },
+    {
+        "name": "Rajat Kapoor",
+        "enrolmentNumber": "GM5012",
+        "gender": "Male",
+        "highestQualification": "MBA (Marketing)",
+        "lastHallAttended": "Sir Syed Hall (South)",
+        "faculty": "Management",
+        "yearOfJoining": 2018,
+        "yearOfLeaving": 2020,
+        "city": "Kanpur",
+        "currentCountry": "India",
+        "currentDesignation": "Brand Executive",
+        "currentCompany": "Nestle India",
+        "permanentAddress": "Kanpur, Uttar Pradesh",
+        "mobileNumber": "8705672134",
+        "emailAddress": "rajat.verma20@gmail.com",
+        "imageUrl": "https://picsum.photos/seed/male-109/2000/2000",
+        "posts": 7,
+        "projects": 3,
+        "members": 5,
+        "skills": [
+            "Product analytics (basic Python)",
+            "Consumer data analysis (SQL)",
+            "A/B testing fundamentals",
+            "Visualization & reporting"
+        ],
+        "aboutMe": "Brand-focused marketer with experience in consumer-packaged goods. I'm driven by consumer insights and enjoy crafting brand stories that connect with buyers.",
+        "personalDetails": {
+            "fullName": "Rajat Kapoor",
+            "fatherName": "Sunil Kapoor",
+            "phone": "8705672134",
+            "country": "India",
+            "email": "rajat.verma20@gmail.com",
+            "zipCode": "208001",
+            "address": "Kanpur, Uttar Pradesh"
+        },
+        "education": [
+            "MBA (Marketing) - Aligarh Muslim University (2020)",
+            "BBA - Kanpur University (2017)"
+        ],
+        "pastEmployment": {
+            "position": "Brand Intern",
+            "company": "Local FMCG Co.",
+            "responsibilities": [
+                "Assisted in qualitative consumer research",
+                "Compiled sales and market reports",
+                "Supported product packaging discussions"
+            ]
+        },
+        "currentEmployment": {
+            "position": "Brand Executive",
+            "company": "Nestle India",
+            "responsibilities": [
+                "Support brand campaign planning",
+                "Coordinate with agencies for creative execution",
+                "Analyze brand performance metrics"
+            ]
+        }
+    },
+    {
+        "name": "Neha Bhatia",
+        "enrolmentNumber": "GH6120",
+        "gender": "Female",
+        "highestQualification": "MBA (HR)",
+        "lastHallAttended": "Begum Sultan Jahan Hall",
+        "faculty": "Management",
+        "yearOfJoining": 2018,
+        "yearOfLeaving": 2020,
+        "city": "Agra",
+        "currentCountry": "India",
+        "currentDesignation": "HR Analyst",
+        "currentCompany": "Infosys Ltd.",
+        "permanentAddress": "Agra, Uttar Pradesh",
+        "mobileNumber": "9123084761",
+        "emailAddress": "neha.sharma20@gmail.com",
+        "imageUrl": "https://picsum.photos/seed/female-204/2000/2000",
+        "posts": 2,
+        "projects": 1,
+        "members": 11,
+        "skills": [
+            "HR analytics with Python",
+            "Dashboards & visualization",
+            "SQL for people-data",
+            "Statistical analysis basics"
+        ],
+        "aboutMe": "HR analyst focused on using people-data to influence HR decisions. I enjoy creating dashboards that help leadership make informed talent choices.",
+        "personalDetails": {
+            "fullName": "Neha Bhatia",
+            "fatherName": "Rajiv Bhatia",
+            "phone": "9123084761",
+            "country": "India",
+            "email": "neha.sharma20@gmail.com",
+            "zipCode": "282001",
+            "address": "Agra, Uttar Pradesh"
+        },
+        "education": [
+            "MBA (HR) - Aligarh Muslim University (2020)",
+            "B.Com - Agra University (2017)"
+        ],
+        "pastEmployment": {
+            "position": "HR Intern",
+            "company": "Local HR Consultancy",
+            "responsibilities": [
+                "Compiled HR dashboards",
+                "Assisted with exit interviews",
+                "Supported employee engagement events"
+            ]
+        },
+        "currentEmployment": {
+            "position": "HR Analyst",
+            "company": "Infosys Ltd.",
+            "responsibilities": [
+                "Build HR reports and dashboards",
+                "Analyze attrition and hiring trends",
+                "Recommend data-driven HR interventions"
+            ]
+        }
+    },
+    {
+        "name": "Vivek Tiwari",
+        "enrolmentNumber": "GN5211",
+        "gender": "Male",
+        "highestQualification": "MBA (Finance)",
+        "lastHallAttended": "Sir Syed Hall (North)",
+        "faculty": "Management",
+        "yearOfJoining": 2018,
+        "yearOfLeaving": 2020,
+        "city": "Varanasi",
+        "currentCountry": "India",
+        "currentDesignation": "Accounts Executive",
+        "currentCompany": "Deloitte India",
+        "permanentAddress": "Varanasi, Uttar Pradesh",
+        "mobileNumber": "8823146790",
+        "emailAddress": "vivek.tiwari20@gmail.com",
+        "imageUrl": "https://picsum.photos/seed/male-110/2000/2000",
+        "posts": 5,
+        "projects": 6,
+        "members": 4,
+        "skills": [
+            "Accounting automation (Python scripts)",
+            "Financial reporting with SQL",
+            "Excel automation (VBA / scripts)",
+            "Data validation & reconciliation"
+        ],
+        "aboutMe": "Accountant with a focus on accuracy and compliance. I enjoy reconciling accounts and ensuring timely statutory filings.",
+        "personalDetails": {
+            "fullName": "Vivek Tiwari",
+            "fatherName": "Suresh Tiwari",
+            "phone": "8823146790",
+            "country": "India",
+            "email": "vivek.tiwari20@gmail.com",
+            "zipCode": "221001",
+            "address": "Varanasi, Uttar Pradesh"
+        },
+        "education": [
+            "MBA (Finance) - Aligarh Muslim University (2020)",
+            "B.Com - Banaras Hindu University (2017)"
+        ],
+        "pastEmployment": {
+            "position": "Accounts Intern",
+            "company": "Local Accounts Firm",
+            "responsibilities": [
+                "Assisted with bookkeeping",
+                "Prepared trial balances",
+                "Supported audit schedules"
+            ]
+        },
+        "currentEmployment": {
+            "position": "Accounts Executive",
+            "company": "Deloitte India",
+            "responsibilities": [
+                "Prepare financial statements and reconciliations",
+                "Support statutory and internal audits",
+                "Coordinate GST and compliance tasks"
+            ]
+        }
+    },
+    {
+        "name": "Aditi Rao",
+        "enrolmentNumber": "GH7078",
+        "gender": "Female",
+        "highestQualification": "MBA (Marketing)",
+        "lastHallAttended": "Begum Sultan Jahan Hall",
+        "faculty": "Management",
+        "yearOfJoining": 2018,
+        "yearOfLeaving": 2020,
+        "city": "Prayagraj",
+        "currentCountry": "India",
+        "currentDesignation": "Marketing Associate",
+        "currentCompany": "HCL Technologies",
+        "permanentAddress": "Prayagraj, Uttar Pradesh",
+        "mobileNumber": "9912378456",
+        "emailAddress": "aditi.singh20@gmail.com",
+        "imageUrl": "https://picsum.photos/seed/female-205/2000/2000",
+        "posts": 3,
+        "projects": 6,
+        "members": 3,
+        "skills": [
+            "Content engineering (Markdown, templating)",
+            "Campaign analytics (Python / SQL)",
+            "Automation for campaign workflows",
+            "Basic web fundamentals (HTML/CSS)"
+        ],
+        "aboutMe": "B2B marketer who enjoys building demand-generation programs and measuring their impact. I like working at the intersection of product and sales to enable growth.",
+        "personalDetails": {
+            "fullName": "Aditi Rao",
+            "fatherName": "Vikram Rao",
+            "phone": "9912378456",
+            "country": "India",
+            "email": "aditi.singh20@gmail.com",
+            "zipCode": "211001",
+            "address": "Prayagraj, Uttar Pradesh"
+        },
+        "education": [
+            "MBA (Marketing) - Aligarh Muslim University (2020)",
+            "BBA - Prayagraj University (2017)"
+        ],
+        "pastEmployment": {
+            "position": "Marketing Intern",
+            "company": "Small Tech Firm",
+            "responsibilities": [
+                "Assisted in content creation",
+                "Coordinated webinars and events",
+                "Prepared campaign performance summaries"
+            ]
+        },
+        "currentEmployment": {
+            "position": "Marketing Associate",
+            "company": "HCL Technologies",
+            "responsibilities": [
+                "Create campaign briefs and content",
+                "Coordinate with sales for lead follow-up",
+                "Track campaign metrics and optimize"
+            ]
+        }
+    },
+    {
+        "name": "Rohit Malhotra",
+        "enrolmentNumber": "GM3102",
+        "gender": "Male",
+        "highestQualification": "MBA",
+        "lastHallAttended": "N.R.S.C.",
+        "faculty": "Management",
+        "yearOfJoining": 2018,
+        "yearOfLeaving": 2020,
+        "city": "Noida",
+        "currentCountry": "India",
+        "currentDesignation": "Business Analyst",
+        "currentCompany": "Accenture India",
+        "permanentAddress": "Noida, Uttar Pradesh",
+        "mobileNumber": "9821456702",
+        "emailAddress": "rohit.kumar20@gmail.com",
+        "imageUrl": "https://picsum.photos/seed/male-111/2000/2000",
+        "posts": 7,
+        "projects": 4,
+        "members": 6,
+        "skills": [
+            "Requirements automation (spec-driven tools)",
+            "Data analysis (Python / SQL)",
+            "Process modelling & scripting",
+            "Working with developer toolchains (git)"
+        ],
+        "aboutMe": "Business analyst experienced in translating business needs into clear requirements and supporting implementation teams. I enjoy stakeholder engagement and data-backed recommendations.",
+        "personalDetails": {
+            "fullName": "Rohit Malhotra",
+            "fatherName": "Kamal Malhotra",
+            "phone": "9821456702",
+            "country": "India",
+            "email": "rohit.kumar20@gmail.com",
+            "zipCode": "201301",
+            "address": "Noida, Uttar Pradesh"
+        },
+        "education": [
+            "MBA - Aligarh Muslim University (2020)",
+            "B.Tech - Uttar Pradesh Technical University (2016)"
+        ],
+        "pastEmployment": {
+            "position": "Analyst Intern",
+            "company": "Local Consulting Firm",
+            "responsibilities": [
+                "Gathered requirements for client projects",
+                "Prepared process flow diagrams",
+                "Performed basic data analysis"
+            ]
+        },
+        "currentEmployment": {
+            "position": "Business Analyst",
+            "company": "Accenture India",
+            "responsibilities": [
+                "Elicit and document business requirements",
+                "Work with developers on solution design",
+                "Validate solutions against business needs"
+            ]
+        }
+    },
+    {
+        "name": "Priya Sinha",
+        "enrolmentNumber": "GH8201",
+        "gender": "Female",
+        "highestQualification": "MBA (Finance)",
+        "lastHallAttended": "Begum Sultan Jahan Hall",
+        "faculty": "Management",
+        "yearOfJoining": 2018,
+        "yearOfLeaving": 2020,
+        "city": "Patna",
+        "currentCountry": "India",
+        "currentDesignation": "Finance Associate",
+        "currentCompany": "Wipro Ltd.",
+        "permanentAddress": "Patna, Bihar",
+        "mobileNumber": "9832054789",
+        "emailAddress": "priya.sinha20@gmail.com",
+        "imageUrl": "https://picsum.photos/seed/female-206/2000/2000",
+        "posts": 9,
+        "projects": 5,
+        "members": 4,
+        "skills": [
+            "Financial automation (Python)",
+            "SQL for finance reports",
+            "Excel automation & macros",
+            "Data validation & ETL basics"
+        ],
+        "aboutMe": "Finance associate focused on budgeting and financial reporting. I enjoy optimizing processes to deliver timely and accurate financial information.",
+        "personalDetails": {
+            "fullName": "Priya Sinha",
+            "fatherName": "Rakesh Sinha",
+            "phone": "9832054789",
+            "country": "India",
+            "email": "priya.sinha20@gmail.com",
+            "zipCode": "800020",
+            "address": "Patna, Bihar"
+        },
+        "education": [
+            "MBA (Finance) - Aligarh Muslim University (2020)",
+            "B.Com - Patna University (2016)"
+        ],
+        "pastEmployment": {
+            "position": "Accounts Intern",
+            "company": "Small CA Firm",
+            "responsibilities": [
+                "Prepared expense reports",
+                "Assisted with invoice processing",
+                "Supported monthly closings"
+            ]
+        },
+        "currentEmployment": {
+            "position": "Finance Associate",
+            "company": "Wipro Ltd.",
+            "responsibilities": [
+                "Assist in monthly financial close",
+                "Prepare budget vs actual analyses",
+                "Support variance investigations"
+            ]
+        }
+    },
+    {
+        "name": "Abhishek Yadav",
+        "enrolmentNumber": "GM9033",
+        "gender": "Male",
+        "highestQualification": "MBA",
+        "lastHallAttended": "Sir Syed Hall (North)",
+        "faculty": "Management",
+        "yearOfJoining": 2018,
+        "yearOfLeaving": 2020,
+        "city": "Gorakhpur",
+        "currentCountry": "India",
+        "currentDesignation": "Management Trainee",
+        "currentCompany": "Tata Motors",
+        "permanentAddress": "Gorakhpur, Uttar Pradesh",
+        "mobileNumber": "9772048390",
+        "emailAddress": "abhishek.yadav20@gmail.com",
+        "imageUrl": "https://picsum.photos/seed/male-112/2000/2000",
+        "posts": 5,
+        "projects": 4,
+        "members": 9,
+        "skills": [
+            "Process automation (Python)",
+            "Data collection & cleaning",
+            "Basic scripting for operations",
+            "Problem solving with code"
+        ],
+        "aboutMe": "Operations-focused trainee with a keen interest in manufacturing and supply chain. I enjoy hands-on problem solving and cross-functional coordination.",
+        "personalDetails": {
+            "fullName": "Abhishek Yadav",
+            "fatherName": "Bharat Yadav",
+            "phone": "9772048390",
+            "country": "India",
+            "email": "abhishek.yadav20@gmail.com",
+            "zipCode": "273001",
+            "address": "Gorakhpur, Uttar Pradesh"
+        },
+        "education": [
+            "MBA - Aligarh Muslim University (2020)",
+            "B.Tech - Gorakhpur University (2016)"
+        ],
+        "pastEmployment": {
+            "position": "Intern - Production",
+            "company": "Local Manufacturing Unit",
+            "responsibilities": [
+                "Monitored shop-floor metrics",
+                "Assisted with production scheduling",
+                "Prepared daily production reports"
+            ]
+        },
+        "currentEmployment": {
+            "position": "Management Trainee",
+            "company": "Tata Motors",
+            "responsibilities": [
+                "Rotate through manufacturing functions",
+                "Support continuous improvement initiatives",
+                "Coordinate with engineering and quality teams"
+            ]
+        }
+    },
+    {
+        "name": "Sana Khan",
+        "enrolmentNumber": "GH9256",
+        "gender": "Female",
+        "highestQualification": "MBA (HR)",
+        "lastHallAttended": "Begum Sultan Jahan Hall",
+        "faculty": "Management",
+        "yearOfJoining": 2018,
+        "yearOfLeaving": 2020,
+        "city": "Aligarh",
+        "currentCountry": "India",
+        "currentDesignation": "Talent Acquisition Executive",
+        "currentCompany": "Genpact India",
+        "permanentAddress": "Aligarh, Uttar Pradesh",
+        "mobileNumber": "9456132789",
+        "emailAddress": "sana.fatima20@gmail.com",
+        "imageUrl": "https://picsum.photos/seed/female-207/2000/2000",
+        "posts": 6,
+        "projects": 4,
+        "members": 4,
+        "skills": [
+            "Sourcing automation (APIs & scripts)",
+            "Campus hiring pipelines (data-driven)",
+            "Interview analytics (basic SQL)",
+            "Candidate experience tooling"
+        ],
+        "aboutMe": "Talent acquisition specialist passionate about building strong candidate pipelines and improving candidate experiences. Enjoys campus recruitment drives and employer branding.",
+        "personalDetails": {
+            "fullName": "Sana Khan",
+            "fatherName": "Farooq Khan",
+            "phone": "9456132789",
+            "country": "India",
+            "email": "sana.fatima20@gmail.com",
+            "zipCode": "202001",
+            "address": "Aligarh, Uttar Pradesh"
+        },
+        "education": [
+            "MBA (HR) - Aligarh Muslim University (2020)",
+            "BA - Aligarh Muslim University (2016)"
+        ],
+        "pastEmployment": {
+            "position": "Recruitment Intern",
+            "company": "Recruitment Agency",
+            "responsibilities": [
+                "Supported candidate sourcing",
+                "Scheduled campus interviews",
+                "Assisted with offer letters and onboarding"
+            ]
+        },
+        "currentEmployment": {
+            "position": "Talent Acquisition Executive",
+            "company": "Genpact India",
+            "responsibilities": [
+                "Plan and execute campus recruitment",
+                "Source and screen entry-level candidates",
+                "Coordinate hiring process with stakeholders"
+            ]
+        }
+    },
+    {
+        "name": "Adnan Mirza",
+        "enrolmentNumber": "GM1029",
+        "gender": "Male",
+        "highestQualification": "MBA (Finance)",
+        "lastHallAttended": "Sir Syed Hall (South)",
+        "faculty": "Management",
+        "yearOfJoining": 2018,
+        "yearOfLeaving": 2020,
+        "city": "Bareilly",
+        "currentCountry": "India",
+        "currentDesignation": "Accounts Officer",
+        "currentCompany": "Capgemini India",
+        "permanentAddress": "Bareilly, Uttar Pradesh",
+        "mobileNumber": "8841290735",
+        "emailAddress": "adnan.khan20@gmail.com",
+        "imageUrl": "https://picsum.photos/seed/male-113/2000/2000",
+        "posts": 3,
+        "projects": 5,
+        "members": 10,
+        "skills": [
+            "AP/AR automation (scripting)",
+            "Reconciliations with SQL",
+            "ERP data handling (basic)",
+            "Reporting pipelines"
+        ],
+        "aboutMe": "Accountant with experience in transactional accounting and reconciliations. I focus on accuracy and timely completion of month-end tasks.",
+        "personalDetails": {
+            "fullName": "Adnan Mirza",
+            "fatherName": "Rafiq Mirza",
+            "phone": "8841290735",
+            "country": "India",
+            "email": "adnan.khan20@gmail.com",
+            "zipCode": "243001",
+            "address": "Bareilly, Uttar Pradesh"
+        },
+        "education": [
+            "MBA (Finance) - Aligarh Muslim University (2020)",
+            "B.Com - Bareilly University (2016)"
+        ],
+        "pastEmployment": {
+            "position": "Accounts Intern",
+            "company": "Local Firm",
+            "responsibilities": [
+                "Processed vendor invoices",
+                "Assisted with bank reconciliations",
+                "Prepared supporting schedules for auditors"
+            ]
+        },
+        "currentEmployment": {
+            "position": "Accounts Officer",
+            "company": "Capgemini India",
+            "responsibilities": [
+                "Manage AP/AR processes",
+                "Prepare monthly reconciliations and reports",
+                "Coordinate with external auditors"
+            ]
+        }
+    }
+]
