@@ -62,7 +62,7 @@ const ProductsPage = () => {
       filter.engage.map((type) => {
         switch (type) {
           case 'topMentor':
-            data.forEach((alumni) => { (alumni.projects > 4 && alumni.posts) > 5 && engageSet.add(alumni) });
+            data.forEach((alumni) => { (alumni.projects > 4 && alumni.posts > 5) && engageSet.add(alumni) });
             break;
           case 'activeContributors':
             data.forEach((alumni) => { (alumni.projects >= 3 || alumni.posts >= 5) && engageSet.add(alumni) });
@@ -87,13 +87,13 @@ const ProductsPage = () => {
             data.forEach((alumni) => { [...alumni.skills].includes('sql') && skillsSet.add(alumni) });
             break;
           case 'excel':
-            data.forEach((alumni) => { [...alumni.skills].includes('excel') && skillsSet.add(alumni) });
+            data.forEach((alumni) => { [...alumni.skills].includes('Excel') && skillsSet.add(alumni) });
             break;
           case 'scripting':
             data.forEach((alumni) => { [...alumni.skills].includes('scripting') && skillsSet.add(alumni) });
             break;
           case 'dataAnalysis':
-            data.forEach((alumni) => { [...alumni.skills].includes('dataAnalysis') && skillsSet.add(alumni) });
+            data.forEach((alumni) => { [...alumni.skills].includes('Data Analysis') && skillsSet.add(alumni) });
             break;
         };
       })
